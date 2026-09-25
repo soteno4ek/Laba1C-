@@ -1,10 +1,10 @@
-﻿using System;
+using System;
 
 class Program
 {
     static void Main()
     {
-        Program p = new Program();
+        Methods p = new Methods();
 
         Console.WriteLine("ЛАБОРАТОРНАЯ РАБОТА №1");
         Console.WriteLine();
@@ -328,8 +328,11 @@ class Program
             }
         } while (running);
     }
+}
 
-    public double fraction(double x)
+class Methods
+{
+        public double fraction(double x)
     {
         return x - (int)x;
     }
