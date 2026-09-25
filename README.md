@@ -27,6 +27,10 @@ x=5,25
 
 <img width="230" height="62" alt="image" src="https://github.com/user-attachments/assets/a13e55fd-e751-4196-a1c0-4063073cee1d" />
 
+<img width="197" height="56" alt="image" src="https://github.com/user-attachments/assets/87904515-3815-45ef-8b27-03ed676a173a" />
+
+<img width="226" height="88" alt="image" src="https://github.com/user-attachments/assets/a745191d-bfb3-470c-82cd-aa5ce8f90401" />
+
 ## Задача 2
 
 ### Текст задачи
@@ -49,6 +53,8 @@ x=’3’
 ### Тестирование
 
 <img width="325" height="61" alt="image" src="https://github.com/user-attachments/assets/04c5b6ce-6e29-49aa-9d36-62abee7d60f4" />
+
+<img width="335" height="119" alt="image" src="https://github.com/user-attachments/assets/5dcf5271-cf06-4b96-9360-e8beb9791465" />
 
 ## Задача 3
 
@@ -74,6 +80,8 @@ x=516
 ### Тестирование
 
 <img width="223" height="120" alt="image" src="https://github.com/user-attachments/assets/88c701a1-2dda-4a6f-853c-18d4f95c8e57" />
+
+<img width="209" height="125" alt="image" src="https://github.com/user-attachments/assets/571e7bc5-79f3-485b-896a-2871719396ef" />
 
 ## Задача 4
 
@@ -103,6 +111,8 @@ a=2 b=15 num=33
 
 <img width="221" height="186" alt="image" src="https://github.com/user-attachments/assets/d7822041-17c8-47e9-b567-a0c219f60a7b" />
 
+<img width="219" height="119" alt="image" src="https://github.com/user-attachments/assets/f61e59c0-e10d-43bb-b004-9e37b2da5bb8" />
+
 ## Задача 5
 
 ### Текст задачи
@@ -126,6 +136,8 @@ a=2 b=15 с=2
 ### Тестирование
 
 <img width="221" height="186" alt="image" src="https://github.com/user-attachments/assets/598c6d61-96b1-4595-b310-db7fc2b89bfb" />
+
+<img width="200" height="118" alt="image" src="https://github.com/user-attachments/assets/64da55f0-d38b-402b-80b2-65e7bcad6a5e" />
 
 # Задание 2
 
@@ -154,6 +166,8 @@ x=-3
 
 <img width="199" height="123" alt="image" src="https://github.com/user-attachments/assets/735b9330-48e1-42ef-a803-ca0726bafa15" />
 
+<img width="204" height="118" alt="image" src="https://github.com/user-attachments/assets/3437ca3e-938e-4cee-b8cb-a968c876af09" />
+
 ## Задача 2
 
 ### Текст задачи
@@ -176,13 +190,15 @@ x=15
 
 ### Алгоритм решения
 
-1. Проверить делимость на 3: если x делится нацело на 3, переходим к п.2
-2. Проверить делимость на 5: если x делится нацело на 5, переходим к п.3
-3. Вернуть (x % 3 == 0) != (x % 5 == 0)
+1. Проверить, делится ли x на 3: x % 3 == 0
+2. Проверить, делится ли x на 5: x % 5 == 0
+3. Вернуть true, если результаты разные. Иначе false
 
 ### Тестирование
 
 <img width="203" height="187" alt="image" src="https://github.com/user-attachments/assets/7a91031f-2f47-428b-b493-18b43f640370" />
+
+<img width="209" height="122" alt="image" src="https://github.com/user-attachments/assets/eee0c1ca-4482-43d9-a4eb-a2131328af2b" />
 
 ## Задача 3
 
@@ -211,6 +227,8 @@ x=8 y=-1 z=4
 
 <img width="204" height="184" alt="image" src="https://github.com/user-attachments/assets/9af63caf-3e8e-4214-aba4-d9b67cf5f406" />
 
+<img width="204" height="121" alt="image" src="https://github.com/user-attachments/assets/10490ecb-e94b-4328-9272-9c6a90ce7486" />
+
 ## Задача 4
 
 ### Текст задачи
@@ -237,6 +255,8 @@ x=8 y=-1
 
 <img width="213" height="155" alt="image" src="https://github.com/user-attachments/assets/d5b79274-e74c-4d47-ae36-3c644cf6063f" />
 
+<img width="207" height="122" alt="image" src="https://github.com/user-attachments/assets/bd4ad81b-720f-4bd7-8bb4-37733dad204c" />
+
 ## Задача 5
 
 ### Текст задачи
@@ -262,6 +282,8 @@ x=5
 
 <img width="216" height="59" alt="image" src="https://github.com/user-attachments/assets/71be3d9d-1508-48e0-b5d4-e80d41517f53" />
 
+<img width="226" height="121" alt="image" src="https://github.com/user-attachments/assets/c3672680-bc39-442d-b394-b9b93a14fb52" />
+
 # Задание 3
 
 ## Задача 1
@@ -285,6 +307,8 @@ x=5
 ### Тестирование
 
 <img width="206" height="58" alt="image" src="https://github.com/user-attachments/assets/897b0c0e-b407-4454-b284-dc206c03c9eb" />
+
+<img width="207" height="119" alt="image" src="https://github.com/user-attachments/assets/a4adc2ec-ebd8-4a3b-8e2b-b27b6b97519e" />
 
 ## Задача 2
 
@@ -310,6 +334,8 @@ x=9
 
 <img width="208" height="58" alt="image" src="https://github.com/user-attachments/assets/d9bd2e72-4e6b-4137-8f39-6ce8ed55a6c8" />
 
+<img width="209" height="119" alt="image" src="https://github.com/user-attachments/assets/ab7097c2-695d-4ddf-9101-0f36a3b08add" />
+
 ## Задача 3
 
 ### Текст задачи
@@ -333,6 +359,8 @@ x=12567
 ### Тестирование
 
 <img width="204" height="60" alt="image" src="https://github.com/user-attachments/assets/91aa3442-2b71-47f8-b1ab-0ff02e284810" />
+
+<img width="207" height="123" alt="image" src="https://github.com/user-attachments/assets/42bb57ee-3f4e-48e1-bff7-8d58271f74dd" />
 
 ## Задача 4
 
@@ -365,6 +393,8 @@ x=4
 ### Тестирование
 
 <img width="267" height="219" alt="image" src="https://github.com/user-attachments/assets/d05cb26c-3be8-4eb4-93e1-cfa5ea91c725" />
+
+<img width="216" height="117" alt="image" src="https://github.com/user-attachments/assets/9e7986c3-b9d5-4c3d-9cdb-55113ffdf247" />
 
 ## Задача 5
 
@@ -402,6 +432,8 @@ x=4
 
 <img width="232" height="229" alt="image" src="https://github.com/user-attachments/assets/389a3bf7-21a1-4537-8549-415ee5005111" />
 
+<img width="221" height="117" alt="image" src="https://github.com/user-attachments/assets/7a9d7117-29b0-47a0-8731-dfc2a15c1335" />
+
 # Задание 4
 
 ## Задача 1
@@ -428,6 +460,8 @@ x=2
 
 <img width="230" height="183" alt="image" src="https://github.com/user-attachments/assets/a538d0c7-9343-4e8b-95f2-8476a85fb763" />
 
+<img width="256" height="250" alt="image" src="https://github.com/user-attachments/assets/f9cddafe-51f1-4532-8c40-10e57a0cb678" />
+
 ## Задача 2
 
 ### Текст задачи
@@ -450,6 +484,8 @@ arr=[1,-2,-7,4,2,2,5]
 ### Тестирование
 
 <img width="221" height="166" alt="image" src="https://github.com/user-attachments/assets/7b9d3a23-0939-4b1c-a0c8-504be33a5d9d" />
+
+<img width="307" height="237" alt="image" src="https://github.com/user-attachments/assets/82da6eb1-6031-4d25-b8e0-1bc080b67795" />
 
 ## Задача 3
 
@@ -478,6 +514,8 @@ pos=3
 
 <img width="284" height="219" alt="image" src="https://github.com/user-attachments/assets/793b18b6-889d-4a65-9db1-64f7c8c4915a" />
 
+<img width="263" height="218" alt="image" src="https://github.com/user-attachments/assets/4931954f-6cf9-4394-bf45-ea60c203a985" />
+
 ## Задача 4
 
 ### Текст задачи
@@ -500,6 +538,8 @@ arr=[1,2,3,4,5]
 ### Тестирование
 
 <img width="229" height="140" alt="image" src="https://github.com/user-attachments/assets/cdd88ade-d6fa-45f8-a0fb-b64ed2c3acd8" />
+
+<img width="243" height="175" alt="image" src="https://github.com/user-attachments/assets/428bc3d7-b55c-4e70-88b0-81c6f084c1b2" />
 
 ## Задача 5
 
@@ -524,3 +564,5 @@ x=2
 ### Тестирование
 
 <img width="222" height="183" alt="image" src="https://github.com/user-attachments/assets/7e79123e-6616-4b14-a389-cc05078a9447" />
+
+<img width="225" height="185" alt="image" src="https://github.com/user-attachments/assets/8fa20709-1f5c-4ccc-8433-94ddcda637e3" />
